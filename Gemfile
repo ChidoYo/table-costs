@@ -12,6 +12,8 @@ gem 'rails', '~> 5.1.6'
 gem 'bootstrap'
 # jQuery
 gem 'jquery-rails'
+# rails_handsontable
+gem 'rails_handsontable'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
