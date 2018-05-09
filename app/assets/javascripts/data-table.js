@@ -23,7 +23,7 @@ $(function() {
   // This way, you can access Handsontable api methods by passing their names as an argument, e.g.:
   var hotInstance = $("#dataTable").handsontable('getInstance');
 
-  // ----------------------------------------
+  // This is just a test ----------------------------------------
 
   function getCarData() {
   return [
