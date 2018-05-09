@@ -1,5 +1,5 @@
 $(function() {
-
+  
   function getData() {
     return [
       ['', 'Kia', 'Nissan', 'Toyota', 'Honda', 'Mazda', 'Ford'],
@@ -19,6 +19,7 @@ $(function() {
     colHeaders: true,
     contextMenu: true
   });
+
 
   // This way, you can access Handsontable api methods by passing their names as an argument, e.g.:
   var hotInstance = $("#dataTable").handsontable('getInstance');
@@ -59,5 +60,4 @@ $(function() {
       }
     ]
   });
-
 });
