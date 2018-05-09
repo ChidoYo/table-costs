@@ -29,8 +29,8 @@ $(function() {
   return [
     {cov: 'Employee Only', empCost: 99.73, eCost: 299.73, fee1: 5.0},
     {cov: 'Employee + Spouse', empCost: 99.73, eCost: 301.99, fee1: 4.0},
-    {cov: 'Chrysler', empCost: 99.73, eCost: 305.00, fee1: 6.0},
-    {cov: 'Volvo', empCost: 100.00, eCost: 310.00, fee1: 4.5}
+    {cov: 'Employee + Children', empCost: 99.73, eCost: 305.00, fee1: 6.0},
+    {cov: 'Employee + Family', empCost: 100.00, eCost: 310.00, fee1: 4.5}
   ];
 }
 
